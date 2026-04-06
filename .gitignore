@@ -36,7 +36,7 @@ tsconfig.build.tsbuildinfo
 .turbo
 
 # npm
-package-lock.json
+# package-lock.json
 
 # yarn
 yarn.lock
