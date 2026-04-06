@@ -7,7 +7,7 @@ import { Home, Info, Github } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
 
 const GITHUB_REPO_URL =
-  "https://github.com/MisterCommit/bulk-slack-message-deleter-master";
+  "https://github.com/emryl/bulk-slack-message-deleter";
 
 const navLinkBase =
   "flex min-h-[44px] min-w-[44px] items-center justify-center gap-2 rounded-sm border-b-2 border-transparent py-2 text-sm font-medium transition-colors focus-visible:ring-2 focus-visible:ring-amber-400/90 focus-visible:ring-offset-2 focus-visible:ring-offset-white dark:focus-visible:ring-offset-slate-950 sm:min-h-0 sm:min-w-0 sm:justify-start sm:py-0";
